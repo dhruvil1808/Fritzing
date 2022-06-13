@@ -5,4 +5,4 @@ contains fritzing files for different circuits like:
 3. Sonar.
 4. Basic Data Acquisition for a car.
 
---The .ion files contain the arduino ide code for thr corresponding circuits.
+--The .ion files contain the arduino ide code for the corresponding circuits.
